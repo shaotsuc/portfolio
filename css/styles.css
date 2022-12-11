@@ -1,3 +1,22 @@
-.name {
-    
+body {
+    margin: 0;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.top-div {
+    height: 200px;
+    width: 200px;
+}
+
+.middle-div {
+    height: 200px;
+    width: 200px;
+}
+
+.bottom-div{
+    height: 200px;
+    width: 200px;
 }
